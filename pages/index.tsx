@@ -13,7 +13,7 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Welcome to Body's Next.js Site!
+          Welcome to Body Next.js Site!
         </h1>
 
         <p className={styles.description}>
